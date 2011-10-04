@@ -1,0 +1,7 @@
+.project
+.classpath
+.settings
+.pydevproject
+target
+test-output
+tap
